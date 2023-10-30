@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvertisementApp.Common", "AdvertisementApp.Common\AdvertisementApp.Common.csproj", "{ABB37B4D-509D-41EC-9A5E-2E11A6D00974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB37B4D-509D-41EC-9A5E-2E11A6D00974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB37B4D-509D-41EC-9A5E-2E11A6D00974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB37B4D-509D-41EC-9A5E-2E11A6D00974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB37B4D-509D-41EC-9A5E-2E11A6D00974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A49C1518-882C-4507-8052-28BFD34E2714}
+	EndGlobalSection
+EndGlobal
